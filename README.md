@@ -1,35 +1,39 @@
+# Oculus MRC OBS Plugin
 
+![GitHub](https://img.shields.io/github/license/facebookincubator/obs-plugins)
 
-# OBS Plugins
-
-This repository contains a collection of plugins designed for use with OBS (Open Broadcaster Software). OBS is a powerful open-source software for live streaming and recording. These plugins enhance the functionality and features of OBS, making it a more versatile tool for content creators.
+This OBS (Open Broadcaster Software) plugin allows you to capture Mixed Reality Capture (MRC) data from an Oculus Quest device and use it for live streaming and recording.
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Building](#building)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Introduction
+
+The Oculus MRC OBS Plugin provides functionality for capturing MRC data from an Oculus Quest headset. MRC allows you to overlay the player's real-world view onto their virtual reality content during a live stream or recording. This can enhance the viewing experience and provide more context for the audience.
 
 ## Getting Started
 
 ### Prerequisites
 
-Before you can use these plugins, make sure you have the following prerequisites installed:
+Before using this plugin, make sure you have the following prerequisites installed:
 
-- OBS (Open Broadcaster Software): You can download OBS from the [official project page](https://obsproject.com/).
+- [OBS (Open Broadcaster Software)](https://obsproject.com/): You will need OBS to use this plugin.
 
-### Installation
+### Building
 
-To install the plugins, follow these steps:
+To build and use this plugin, follow these steps:
 
 1. Clone the repository to your local machine:
 
    ```shell
    git clone https://github.com/facebookincubator/obs-plugins.git
-   ```
 
 2. Navigate to the appropriate plugin directory (e.g., `oculus-mrc`).
 
