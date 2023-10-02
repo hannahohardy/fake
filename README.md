@@ -52,5 +52,3 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE (version 2) - see 
 - [Official OBS Project Page](https://obsproject.com/)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Security Policy](SECURITY.md)
-
-Feel free to customize this README template further to suit the specific needs and details of your project. Include more information about the individual plugins if necessary, and make sure to keep it up-to-date with any changes to the project.
