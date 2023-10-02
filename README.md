@@ -18,6 +18,7 @@ This OBS (Open Broadcaster Software) plugin allows you to capture Mixed Reality 
 
 The Oculus MRC OBS Plugin provides functionality for capturing MRC data from an Oculus Quest headset. MRC allows you to overlay the player's real-world view onto their virtual reality content during a live stream or recording. This can enhance the viewing experience and provide more context for the audience. This data can be seamlessly integrated into your live streams and recordings, adding a new dimension to your content creation.
 
+
 ### Mixed Reality Capture (MRC)
 Mixed Reality Capture (MRC) has become increasingly popular in the world of live streaming and content creation. It allows you to combine real-world footage with virtual reality, resulting in immersive and engaging content. With the Oculus MRC OBS Plugin, you can harness the capabilities of your Oculus Quest device to take your content to the next level.
 
@@ -29,7 +30,7 @@ Seamless Integration: The plugin seamlessly integrates with OBS, one of the most
   Oculus Quest Support: Capture MRC data directly from your Oculus Quest device, allowing you to showcase your VR experiences with ease.
 
   Customization: Configure settings within OBS to specify the Quest's IP address and port, ensuring a smooth connection and setup.
-
+  
   High-Quality Output: Enjoy high-quality MRC data capture for an immersive viewing experience for your audience.
 
   Open Source: This plugin is open source, inviting contributions from the community to improve and enhance its functionality.
